@@ -1,0 +1,111 @@
+#dym {
+	font-style: italic;
+	font-weight: bold;
+}
+
+#logo {
+	display: table;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+#search {
+	display: table;
+	margin: 0 auto;
+	width: 646px;
+}
+
+#search-bar {
+	width: 576px;;
+}
+
+#submit-button {
+	background-image: url(../images/cthulu-small.png);
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	background-size: 50px 50px;
+	width: 50px;
+	height: 50px;
+	border: 0px;
+	background-color: transparent;
+	cursor: pointer;
+	outline: 0;
+	line-height: 0px;
+	text-indent: -500px;
+}
+
+.addr {
+	color: #00670a;
+}
+
+.info {
+	margin-top: 20px;
+	margin-left: 585px;
+	width: 500px;
+}
+
+.query-results {
+	margin-left: 182px;
+}
+
+.results {
+	position: absolute;
+}
+
+.result-title {
+	margin-bottom: 0px;
+}
+
+.search {
+	display: inline-block;
+}
+
+.tentacles {
+	position: absolute;
+	margin-left: -20px;
+	width: 200px;
+}
+
+.test {
+	position: absolute;
+	margin-top: -51px;
+	margin-left: 182px;
+}
+
+body {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+h2 {
+	color: red;
+	font-weight: normal;
+	margin-top: 0px;
+}
+
+h3 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+li {
+	margin: 7px;
+}
+
+p {
+	color: #a3a3a3;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul li:nth-child(2) {
+	color: #a3a3a3;
+}
